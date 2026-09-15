@@ -13,22 +13,29 @@ from the idea to deployment.
 
 ## 💻 Tech Stack
 
-### Web Development
+### 🚀 Le Wagon Bootcamp
+
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-### Programming
+### 💡 Other Programming
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### 🛠️ Tools & Workflow
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -37,10 +44,8 @@ from the idea to deployment.
 
 ### 🍳 Easy Kitchen
 
-A collaborative web application developed during my training.
-
-I contributed approximately **40% of the project**, working as part
-of a development team.
+A collaborative full-stack web application developed during my
+**Le Wagon Web Development Bootcamp**.
 
 **My contribution included:**
 - Full-stack web development
@@ -49,7 +54,7 @@ of a development team.
 - Git/GitHub collaboration
 - Debugging and problem solving
 
-> 👥 Collaborative project 
+> 👥 Collaborative project
 
 ---
 
@@ -58,15 +63,18 @@ of a development team.
 A full-stack web application inspired by Airbnb, developed during
 the **Le Wagon Web Development Bootcamp**.
 
-The project allowed me to put into practice concepts such as:
+The project allowed me to put into practice:
 
+- Ruby on Rails
 - CRUD operations
 - MVC architecture
 - Database relationships
 - Authentication
 - Routing
-- Front-end integration
-- Git workflow
+- JavaScript
+- HTML & CSS
+- Bootstrap
+- Git & GitHub
 - Team collaboration
 
 > 👥 Collaborative project developed during Le Wagon.
@@ -104,3 +112,4 @@ learning and grow alongside an experienced development team.
 ---
 
 ⭐ Feel free to explore my repositories and projects!
+
