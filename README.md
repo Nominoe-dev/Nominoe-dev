@@ -49,7 +49,7 @@ of a development team.
 - Git/GitHub collaboration
 - Debugging and problem solving
 
-> 👥 Collaborative project — I was a contributor, not the project owner.
+> 👥 Collaborative project 
 
 ---
 
@@ -98,8 +98,8 @@ learning and grow alongside an experienced development team.
 ## 📫 Let's Connect
 
 - 💼 GitHub: [@Nominoe-dev](https://github.com/Nominoe-dev)
-- 📧 Email: **your-email@example.com**
-- 💼 LinkedIn: **your-linkedin**
+- 📧 Email: **nominoe.girard@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/nominoë-girard-a811a3157**
 
 ---
 
